@@ -1,5 +1,5 @@
 # ToolRunner
-An extendable, OpenAI compatible chat client that can be used as MCP server.
+An extendable, OpenAI compatible MCP server that can also be used as chat client.
 
 ```JSON
 {
